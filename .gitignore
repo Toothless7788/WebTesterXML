@@ -162,6 +162,7 @@ cython_debug/
 #.idea/
 
 ### seld-defined
+.DS_Store
 # venv
 bin/
 pyvenv.cfg
